@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @dammy2011
-- 👀 I’m interested in Data Analytics
+- 👋 Hi, I’m Damilola Agbaje
+- 👀 I’m interested in Data Analytics, 
 - 🌱 I’m currently learning Data Analytics
-- 💞️ I’m looking to collaborate on a project
+- 💞️ I’m looking to collaborate on a project using Programming languages like Python and SQL
 - 📫 How to reach me via email
 damilolaagbaje1@gmail.com
 <!---
